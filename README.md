@@ -6,15 +6,13 @@
 
 <p align="center">
   <a href= "https://papaemman.me"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web_icon.jpg"></a>
-  <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"/></a>
-  <a href= "https://twitter.com/Papaemman_pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/twitter.png"/></a>
-  <a href= "https://github.com/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"/></a>
-  <a href= "https://www.instagram.com/panagiotis_papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/instagram.jpg"/></a>  
-  <a href= "https://medium.com/@papaemman.pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/medium_icon.png"/></a>
-  <a href= "https://dev.to/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/dev.png"/></a>
+  <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"></a>
+  <a href= "https://twitter.com/Papaemman_pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/twitter.png"></a>
+  <a href= "https://github.com/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"></a>
+  <a href= "https://www.instagram.com/panagiotis_papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/instagram.jpg"></a>  
+  <a href= "https://medium.com/@papaemman.pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/medium_icon.png"></a>
+  <a href= "https://dev.to/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/dev.png"></a>
 </p>
-
-
 
 <p align="center">
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00">       
@@ -65,17 +63,12 @@ me.say_hi()
 ### 👨‍💻 Programming languages
 
 <p>
-	<a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
-	
-	<a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-	
-	<a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-	
-	<a href="https://github.com/search?q=user%3Apapaemman+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-	
-	<a href="https://github.com/search?q=user%3Apapaemman+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-	
-	<a href="https://github.com/search?q=user%3Apapaemman+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>  
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Apapaemman+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>  
     
 </p>
 
