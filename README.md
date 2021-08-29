@@ -6,7 +6,7 @@
 
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=papaemman.papaemman" alt="visitor badge"/>       
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00>       
 </p>
 
 <br>
