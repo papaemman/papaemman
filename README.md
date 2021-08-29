@@ -1,6 +1,5 @@
 
 ## Panagiotis Papaemanouil - @papaemman
----
 - 📊 Data Scientist
 - 📐 Mathematician
 - 🧠 Machine Learning / Deep Learning Engineer
@@ -11,7 +10,6 @@
 
 
 ## More About Me
----
 
 ```
 #!/usr/bin/python
@@ -37,3 +35,6 @@ class Me:
 me = Me()
 me.say_hi()
 ```
+
+
+
