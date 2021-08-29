@@ -139,5 +139,5 @@ me.say_hi()
 
 <br>
 
-<h2 align='center'>🔥<i>Stay hungry</i>🔥</h2>
+<!-- <h2 align='center'>🔥<i>Stay hungry</i>🔥</h2> -->
 
