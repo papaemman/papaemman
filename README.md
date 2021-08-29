@@ -97,7 +97,7 @@ me.say_hi()
    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-dd4814.svg?logo=ubuntu&logoColor=white"></a>
    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-4db3f3.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed.svg?logo=docker&logoColor=white"></a>
     <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-black.svg?logo=google%20colab&logoColor=ffd936"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://wordpress.org/"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
