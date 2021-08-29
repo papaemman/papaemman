@@ -1,14 +1,16 @@
 
 ![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
 
-[![Linkedin: Papaemman](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/)
-[![GitHub Papaemman](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/papaemman)
-![Twitter Follow](https://img.shields.io/twitter/follow/codewithghazi?style=social)
 
+[![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/)
+[![GitHub Papaemman](https://img.shields.io/github/followers/Papaemman?label=follow&style=social)](https://github.com/papaemman)
+[![Twitter Follow](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/Papaemman_pan)
 
 <p align="right">
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00)
+  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00)
 </p>
+
+<br>
 
 ## Panagiotis Papaemanouil - @papaemman
 - 📊 Data Scientist
