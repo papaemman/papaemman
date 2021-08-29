@@ -10,7 +10,7 @@
   <a href= "https://twitter.com/Papaemman_pan"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/twitter.png"/></a>
   <a href= "https://github.com/papaemman"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"/></a>
   <a href= "https://www.instagram.com/panagiotis_papaemmanouil/"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/instagram.jpg"/></a>  
-  <a href= "https://medium.com/@papaemman.pan"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/medium.png"/></a>
+  <a href= "https://medium.com/@papaemman.pan"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/medium_icon.png"/></a>
   <a href= "https://dev.to/papaemman"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/dev.png"/></a>
 </p>
 
