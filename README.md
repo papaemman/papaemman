@@ -2,9 +2,7 @@
 ![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
 
 
-[![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/)
-[![GitHub Papaemman](https://img.shields.io/github/followers/Papaemman?label=follow&style=social)](https://github.com/papaemman)
-[![Twitter Follow](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/Papaemman_pan)
+[![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)]
 
 <p align="right">
   ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00)
