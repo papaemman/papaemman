@@ -5,7 +5,7 @@
 <!-- [![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/) -->
 
 <p align="center">
-  <a href= "https://papaemman.me"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web.jpg"/></a>
+  <a href= "https://papaemman.me"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web_icib.jpg"></a>
   <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"/></a>
   <a href= "https://twitter.com/Papaemman_pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/twitter.png"/></a>
   <a href= "https://github.com/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"/></a>
