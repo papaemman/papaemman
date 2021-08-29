@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00">       
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00">     
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102">     
 </p>
 	    
 <br>
@@ -26,7 +27,7 @@
 - 🧠 Machine Learning / Deep Learning Engineer
 - 👨‍💻 Technology Entrepreneur
 
-```
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
