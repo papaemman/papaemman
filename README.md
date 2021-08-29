@@ -126,6 +126,7 @@ me.say_hi()
 
 <br>
 
+
 ## My GitHub Stats
 
 <p align="center">
@@ -135,5 +136,7 @@ me.say_hi()
 </p>
 
 
+<br>
 
+<h1 align='center'>🔥<i>Stay hungry!</i>🔥</h1>
 
