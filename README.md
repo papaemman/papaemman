@@ -5,7 +5,9 @@
 [![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/)
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00)
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=papaemman.papaemman" alt="visitor badge"/>       
+</p>
 
 <br>
 
