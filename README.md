@@ -5,13 +5,13 @@
 <!-- [![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/) -->
 
 <p align="center">
-  <a href= "https://papaemman.me"><img src="https://github.com/papaemman/papaemman/blob/main/assets/web.png"/></a>
-  <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"/></a>
-  <a href= "https://twitter.com/Papaemman_pan"><img src="https://github.com/papaemman/papaemman/blob/main/assets/twitter.png"/></a>
-  <a href= "https://github.com/papaemman"><img src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"/></a>
-  <a href= "https://www.instagram.com/panagiotis_papaemmanouil/"><img src="https://github.com/papaemman/papaemman/blob/main/assets/instagram.jpg"/></a>  
-  <a href= "https://medium.com/@papaemman.pan"><img src="https://github.com/papaemman/papaemman/blob/main/assets/medium.png"/></a>
-  <a href= "https://dev.to/papaemman"><img src="https://github.com/papaemman/papaemman/blob/main/assets/dev.png"/></a>
+  <a href= "https://papaemman.me"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/web.png"/></a>
+  <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"/></a>
+  <a href= "https://twitter.com/Papaemman_pan"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/twitter.png"/></a>
+  <a href= "https://github.com/papaemman"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"/></a>
+  <a href= "https://www.instagram.com/panagiotis_papaemmanouil/"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/instagram.jpg"/></a>  
+  <a href= "https://medium.com/@papaemman.pan"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/medium.png"/></a>
+  <a href= "https://dev.to/papaemman"><img height="30" src="https://github.com/papaemman/papaemman/blob/main/assets/dev.png"/></a>
 </p>
 
 
