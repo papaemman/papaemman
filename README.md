@@ -98,7 +98,7 @@ me.say_hi()
     <a href="https://wordpress.org/"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="https://www.wolfram.com/mathematica/"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
     <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red></a>
+    <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red"></a>
     <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
    
@@ -116,7 +116,7 @@ me.say_hi()
 </p>
 	
 <p align="left">
-  <a href="https://github.com/papaemman?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/papaemman?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-182447?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 
