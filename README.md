@@ -1,5 +1,5 @@
 
-![Banner Image](https://github.com/papaemman/papaemman/blob/master/assets/header_image.png)
+![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
 
 
 ## Panagiotis Papaemanouil - @papaemman
