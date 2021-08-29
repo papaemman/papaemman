@@ -38,6 +38,7 @@ me = Me()
 me.say_hi()
 ```
 
+<br>
 
 ## 🛠️ My favorite tools
 
@@ -84,6 +85,7 @@ me.say_hi()
 </p>
 
 
+<br>
 
 ## 📘 Selected Open Source Projects
 
@@ -98,9 +100,9 @@ me.say_hi()
 </p>
 
 
+<br>
+
 ## My GitHub Stats
-
-
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaemman&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
