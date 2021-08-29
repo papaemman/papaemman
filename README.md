@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href= "https://papaemman.me"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web_icon.jpg"></a>
-  <a href= "mailto:papaemman.pan@gmail.com?subject = Hello, Panagiotis&body = Write your message here."><img height="37" src="https://github.com/papaemman/papaemman/blob/main/assets/email.png"></a>
+  <a href= "mailto:papaemman.pan@gmail.com"><img height="37" src="https://github.com/papaemman/papaemman/blob/main/assets/email.png"></a>
   <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"></a>
   <a href= "https://twitter.com/Papaemman_pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/twitter.png"></a>
   <a href= "https://github.com/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"></a>
