@@ -130,8 +130,8 @@ me.say_hi()
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaemman&hide_langs_below=18&line_height=27&layout=compact&title_color=29315F&text_color=29315F&hide_border=True"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=papaemman&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Papaemman's Github Stats" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=papaemman&column=7" alt="papaemman's Github Trophy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=papaemman&show_icons=true&count_private=true&include_all_commits=true&line_height=21%22%20alt=%22Papaemman%27s%20Github%20Stats&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" alt="Papaemman's Github Stats"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=papaemman&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" alt="papaemman's Github Trophy" />
 </p>
 
 
