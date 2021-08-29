@@ -9,8 +9,22 @@
 - 👨‍💻 Technology Entrepreneur
 
 
+## My favorite tools
+
+### Programming Languages
+
+### Frameworks and Libraries
+
+
+### Software and Tools
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papaemman&layout=compact&theme=dark&hide_border=true)
+
+
+![Papaemmans's github stats](https://github-readme-stats.vercel.app/api?username=papaemman&show_icons=true&hide_border=true)
+
+
 
 
 ## More About Me
