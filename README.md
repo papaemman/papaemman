@@ -33,7 +33,7 @@
 # -*- coding: utf-8 -*-
 
 class Me:
-     """
+    """
     A class to represent a person. (Actually just for me)
     """
     def __init__(self):
