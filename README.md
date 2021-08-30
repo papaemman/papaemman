@@ -87,6 +87,7 @@ me.say_hi()
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="https://databricks.com/"><img alt="Databricks" src ="https://img.shields.io/badge/Databricks-fc3424.svg?logo=databricks&logoColor=white"></a>
+    <a href="https://fastapi.tiangolo.com/"><img alt="Databricks" src ="https://img.shields.io/badge/FastAPI-black.svg?logo=fastapi&logoColor=white"></a>
 </p>
 
 
