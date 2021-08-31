@@ -76,6 +76,7 @@ me.say_hi()
 <p>
     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-4d77cf.svg?logo=numpy&logoColor=white"></a>
     <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://www.scipy.org/"><img alt="ScipyPy" src="https://img.shields.io/badge/SciPy-blue.svg?logo=SciPy&logoColor=white"></a>
     <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
