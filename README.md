@@ -80,6 +80,9 @@ me.say_hi()
     <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
     <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="https://xgboost.readthedocs.io/en/latest/"><img alt="xgboost" src="https://img.shields.io/badge/xgboost-337ab7.svg?logo=xgboost&logoColor=white"></a>
+    <a href="https://lightgbm.readthedocs.io/en/latest/"><img alt="lightgbm" src="https://img.shields.io/badge/LightGBM-2980b9.svg?logo=xgboost&logoColor=333333"></a>   
+    <a href="https://catboost.ai//"><img alt="catboost" src="https://img.shields.io/badge/catboost-ffcc00.svg?logo=catboostai&logoColor=333333"></a>
     <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3c4c74.svg?logo=plotly&logoColor=white"></a>
     <a href="https://plotly.com/dash/"><img alt="Dash" src="https://img.shields.io/badge/Dash-9ca4bc.svg?logo=dash&logoColor=white"></a>
     <a href="https://spark.apache.org/"><img alt="Apache Spark" src="https://img.shields.io/badge/Spark-e36b1a.svg?logo=apache%20spark&logoColor=white"></a>
