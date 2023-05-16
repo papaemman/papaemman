@@ -150,3 +150,12 @@ me.say_hi()
 
 <!-- <h2 align='center'>🔥<i>Stay hungry</i>🔥</h2> -->
 
+<p align="center">
+	<a href="https://ko-fi.com/papaemman"><img alt="Ko-Fi" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
+</p>
+
+<ul align="center">
+	<a href="https://paypal.me/papaemman"><img alt="PayPal" src="https://img.shields.io/badge/Donate-PayPal-green.svg"></a>
+	<a href="https://www.buymeacoffee.com/papaemman"><img alt="BuyMeACoffee" src="https://img.shields.io/badge/Donate-BuyMeACoffee-green.svg"></a>
+	<a href="https://ko-fi.com/papaemman"><img alt="Ko-Fi" src="https://img.shields.io/badge/Donate-KoFi-green.svg"></a>
+</ul>
